@@ -1,0 +1,45 @@
+* {
+    background-color: azure;
+}
+h1{
+    font-size: 104%;
+    font-family: Arial, Helvetica, sans-serif;
+    color : rgb(13, 35, 133);
+}
+
+.myPersonality{
+    font-family: cursive;
+    color : purple
+}
+h2{
+    color :coral
+}
+#myClass{
+    font-family: monospace;
+    color : brown
+}
+.theMovies{
+    font-family: cursive;
+    color :goldenrod
+}
+#theFavourite{
+    color: brown;
+    font-family: monospace;
+}
+#theHappy{
+    height: 10vw;
+    width : 15vw;
+    
+}
+#theSad{
+    height : 10vw;
+    width :  10vw;
+}
+#theHtmlChecker{
+    width : 5vw;
+    width : 8vw;
+}
+#theCssChecker{
+    width: 5vw;
+    width: 8vw;
+}
